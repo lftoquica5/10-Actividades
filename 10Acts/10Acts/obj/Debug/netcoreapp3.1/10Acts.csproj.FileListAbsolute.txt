@@ -1,0 +1,13 @@
+C:\Users\Equipo\OneDrive\Escritorio\10ACTS\menuActs\10Acts\10Acts\obj\Debug\netcoreapp3.1\10Acts.csprojAssemblyReference.cache
+C:\Users\Equipo\OneDrive\Escritorio\10ACTS\menuActs\10Acts\10Acts\obj\Debug\netcoreapp3.1\10Acts.AssemblyInfoInputs.cache
+C:\Users\Equipo\OneDrive\Escritorio\10ACTS\menuActs\10Acts\10Acts\obj\Debug\netcoreapp3.1\10Acts.AssemblyInfo.cs
+C:\Users\Equipo\OneDrive\Escritorio\10ACTS\menuActs\10Acts\10Acts\obj\Debug\netcoreapp3.1\10Acts.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\OneDrive\Escritorio\10ACTS\menuActs\10Acts\10Acts\bin\Debug\netcoreapp3.1\10Acts.exe
+C:\Users\Equipo\OneDrive\Escritorio\10ACTS\menuActs\10Acts\10Acts\bin\Debug\netcoreapp3.1\10Acts.deps.json
+C:\Users\Equipo\OneDrive\Escritorio\10ACTS\menuActs\10Acts\10Acts\bin\Debug\netcoreapp3.1\10Acts.runtimeconfig.json
+C:\Users\Equipo\OneDrive\Escritorio\10ACTS\menuActs\10Acts\10Acts\bin\Debug\netcoreapp3.1\10Acts.runtimeconfig.dev.json
+C:\Users\Equipo\OneDrive\Escritorio\10ACTS\menuActs\10Acts\10Acts\bin\Debug\netcoreapp3.1\10Acts.dll
+C:\Users\Equipo\OneDrive\Escritorio\10ACTS\menuActs\10Acts\10Acts\bin\Debug\netcoreapp3.1\10Acts.pdb
+C:\Users\Equipo\OneDrive\Escritorio\10ACTS\menuActs\10Acts\10Acts\obj\Debug\netcoreapp3.1\10Acts.dll
+C:\Users\Equipo\OneDrive\Escritorio\10ACTS\menuActs\10Acts\10Acts\obj\Debug\netcoreapp3.1\10Acts.pdb
+C:\Users\Equipo\OneDrive\Escritorio\10ACTS\menuActs\10Acts\10Acts\obj\Debug\netcoreapp3.1\10Acts.genruntimeconfig.cache
